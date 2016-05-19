@@ -77,6 +77,7 @@ LANGUAGES = {
     "chu": "Church Slavic",
     "chv": "Chuvash",
     "chy": "Cheyenne",
+    "ckb": "Central Kurdish",
     "cmc": "Chamic languages",
     "cop": "Coptic",
     "cor": "Cornish",
